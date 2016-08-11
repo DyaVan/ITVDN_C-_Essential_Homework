@@ -1,0 +1,5 @@
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task2\bin\Debug\Task2.exe.config
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task2\bin\Debug\Task2.exe
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task2\bin\Debug\Task2.pdb
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task2\obj\Debug\Task2.exe
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task2\obj\Debug\Task2.pdb

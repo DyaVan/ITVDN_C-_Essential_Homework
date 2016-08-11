@@ -1,0 +1,6 @@
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task3\bin\Debug\Task3.exe.config
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task3\bin\Debug\Task3.exe
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task3\bin\Debug\Task3.pdb
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task3\obj\Debug\Task3.exe
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task3\obj\Debug\Task3.pdb
+D:\Учение - Свет\Курсы\ITVDN\C# Essential\Homework\Lesson1\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
